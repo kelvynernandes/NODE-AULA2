@@ -8,8 +8,6 @@ const pets = [
     },
  
 
-
-
 {
     nome: "Alfredo",
     tutor: "klv",
@@ -30,6 +28,7 @@ const pets = [
     idade: 2,
     vacinado: true,
  },
-]
+
+];
 
 export default pets;
